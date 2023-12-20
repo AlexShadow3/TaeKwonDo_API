@@ -200,6 +200,60 @@
             "dan": "9ème Dan"
         }
     ],
+    "positions": [
+        {
+            "name": "Tchaliot Seugui",
+            "description": "Position de garde à vous"
+        },
+        {
+            "name": "Moa Seugui",
+            "description": "Position avec les pieds joints et les mains contre le corps"
+        },
+        {
+            "name": "Tchoumbi Seugui",
+            "description": "Position de préparation, avec les pieds écartés de la largeur des épaules"
+        },
+        {
+            "name": "Naranhi Seugui",
+            "description": "Position avec les pieds parallèles de la largeur des hanches"
+        },
+        {
+            "name": "Ap Seugui",
+            "description": "Position de marche"
+        },
+        {
+            "name": "Ap Koubi Seugui",
+            "description": "Grande position en avant avec la jambe avant pliée et la jambe arrière tendue"
+        },
+        {
+            "name": "Joutchoum Seugui",
+            "description": "Position du cavalier"
+        },
+        {
+            "name": "Dwitt Koubi Seugui",
+            "description": "Position sur la jambe arrière, pieds à angle droit"
+        },
+        {
+            "name": "Beum Seugui",
+            "description": "Position sur le bol de pied en avant"
+        },
+        {
+            "name": "Wen Seugui",
+            "description": "Position avec les pieds à angle droit avec la jambe gauche devant"
+        },
+        {
+            "name": "Orun Seugui",
+            "description": "Position avec les pieds à angle droit avec la jambe droite devant"
+        },
+        {
+            "name": "Dwitt Koa Seugui",
+            "description": "Jambes croisées avec le pied arrière sur le bol du pied"
+        },
+        {
+            "name": "Ap Koa Seugui",
+            "description": "Jambes croisées avec le pied avant sur le bol du pied"
+        }
+    ],
     "poomsae": [
         {
             "name": "Taegeuk Il-Jang",
@@ -214,7 +268,7 @@
                 },
                 {
                     "id": "2",
-                    "technique": "Joumbi Seugui",
+                    "technique": "Tchoumbi Seugui",
                     "position": "Naranhi Seugui",
                     "description": "Sur place (décaller la jambe gauche d'un pied)"
                 },
@@ -340,7 +394,7 @@
                 },
                 {
                     "id": "23",
-                    "technique": "Joumbi Seugui",
+                    "technique": "Tchoumbi Seugui",
                     "position": "Naranhi Seugui",
                     "description": "1/2 tour pivot sur la jambe droite en ramenant (dans le dos) la jambe gauche en position Naranhi Seugui (retour position de départ)"
                 },
@@ -365,7 +419,7 @@
                 },
                 {
                     "id": "2",
-                    "technique": "Joumbi Seugui",
+                    "technique": "Tchoumbi Seugui",
                     "position": "Naranhi Seugui",
                     "description": "Sur place (décaller la jambe gauche d'un pied)"
                 },
@@ -509,7 +563,7 @@
                 },
                 {
                     "id": "26",
-                    "technique": "Joumbi Seugui",
+                    "technique": "Tchoumbi Seugui",
                     "position": "Naranhi Seugui",
                     "description": "1/2 tour pivot sur la jambe droite en ramenant (dans le dos) la jambe gauche en position Naranhi Seugui (retour position de départ)"
                 },
@@ -534,7 +588,7 @@
                 },
                 {
                     "id": "2",
-                    "technique": "Joumbi Seugui",
+                    "technique": "Tchoumbi Seugui",
                     "position": "Naranhi Seugui",
                     "description": "Sur place (décaller la jambe gauche d'un pied)"
                 },
@@ -720,7 +774,7 @@
                 },
                 {
                     "id": "33",
-                    "technique": "Joumbi Seugui",
+                    "technique": "Tchoumbi Seugui",
                     "position": "Naranhi Seugui",
                     "description": "1/2 tour pivot sur la jambe droite en ramenant (dans le dos) la jambe gauche en position Naranhi Seugui (retour position de départ)"
                 },
@@ -745,7 +799,7 @@
                 },
                 {
                     "id": "2",
-                    "technique": "Joumbi Seugui",
+                    "technique": "Tchoumbi Seugui",
                     "position": "Naranhi Seugui",
                     "description": "Sur place (décaller la jambe gauche d'un pied)"
                 },
@@ -925,7 +979,7 @@
                 },
                 {
                     "id": "32",
-                    "technique": "Joumbi Seugui",
+                    "technique": "Tchoumbi Seugui",
                     "position": "Naranhi Seugui",
                     "description": "1/2 tour pivot sur la jambe droite en ramenant (dans le dos) la jambe gauche en position Naranhi Seugui (retour position de départ)"
                 },
@@ -950,7 +1004,7 @@
                 },
                 {
                     "id": "2",
-                    "technique": "Joumbi Seugui",
+                    "technique": "Tchoumbi Seugui",
                     "position": "Naranhi Seugui",
                     "description": "Sur place (décaller la jambe gauche d'un pied)"
                 },
@@ -1173,7 +1227,7 @@
                 },
                 {
                     "id": "2",
-                    "technique": "Joumbi Seugui",
+                    "technique": "Tchoumbi Seugui",
                     "position": "Naranhi Seugui",
                     "description": "Sur place (décaller la jambe gauche d'un pied)"
                 },
@@ -1365,7 +1419,7 @@
                 },
                 {
                     "id": "34",
-                    "technique": "Joumbi Seugui",
+                    "technique": "Tchoumbi Seugui",
                     "position": "Naranhi Seugui",
                     "description": "Ramener la jambe droite en position Naranhi Seugui (la jambe gauche ne bouge pas)"
                 },
@@ -1390,7 +1444,7 @@
                 },
                 {
                     "id": "2",
-                    "technique": "Joumbi Seugui",
+                    "technique": "Tchoumbi Seugui",
                     "position": "Naranhi Seugui",
                     "description": "Sur place (décaller la jambe gauche d'un pied)"
                 },
@@ -1582,7 +1636,7 @@
                 },
                 {
                     "id": "34",
-                    "technique": "Joumbi Seugui",
+                    "technique": "Tchoumbi Seugui",
                     "position": "Naranhi Seugui",
                     "description": "Ramener la jambe gauche en pivotant sur la jambe droite (dans le dos), position Naranhi Seugui (retour position de départ)"
                 },
@@ -1607,7 +1661,7 @@
                 },
                 {
                     "id": "2",
-                    "technique": "Joumbi Seugui",
+                    "technique": "Tchoumbi Seugui",
                     "position": "Naranhi Seugui",
                     "description": "Sur place (décaller la jambe gauche d'un pied)"
                 },
@@ -1823,7 +1877,7 @@
                 },
                 {
                     "id": "38",
-                    "technique": "Joumbi Seugui",
+                    "technique": "Tchoumbi Seugui",
                     "position": "Naranhi Seugui",
                     "description": "Ramener la jambe gauche en position Naranhi Seugui (la jambe droite ne bouge pas) (retour position de départ)"
                 },
