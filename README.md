@@ -37,12 +37,24 @@ fetchData();
 Liste des fonctionnalités disponibles (ou à venir) :
 
 - [x] Les grades
-- [] Les positions
-- [] Les techniques de défense
-- [] Les techniques de coup de pied
-- [] Les techniques de coup de poing
-- [] Autres techniques
+  - [x] Grades enfant
+  - [x] Grades adulte
+  - [x] Grades master (à partir de la ceinture noire)
+- [x] Les positions
+- [ ] Les techniques de bras
+  - [ ] Les techniques de blocage à mains ouvertes
+  - [ ] Les techniques de blocage à mains fermées
+  - [ ] Autres techniques de blocage à la main
+- [ ] Les techniques de coup de pied
 - [x] Les poomsae
+  - [x] 1er poomsae
+  - [x] 2ème poomsae
+  - [x] 3ème poomsae
+  - [x] 4ème poomsae
+  - [x] 5ème poomsae
+  - [x] 6ème poomsae
+  - [x] 7ème poomsae
+  - [x] 8ème poomsae
 
 ## Contribuer
 
