@@ -1,203 +1,211 @@
 {
-    "gradesEnfants" : [
+    "grades": [
         {
-            "name": "15ème Kup",
-            "color": "Blanc",
-            "barrettes": "0",
-            "barrettesColor": "NONE"
+            "gradesEnfants" : [
+                {
+                    "name": "15ème Kup",
+                    "color": "Blanc",
+                    "barrettes": "0",
+                    "barrettesColor": "NONE"
+                },
+                {
+                    "name": "14ème Kup",
+                    "color": "Jaune",
+                    "barrettes": "0",
+                    "barrettesColor": "NONE"
+                },
+                {
+                    "name": "13ème Kup",
+                    "color": "Jaune",
+                    "barrettes": "1",
+                    "barrettesColor": "Orange"
+                },
+                {
+                    "name": "12ème Kup",
+                    "color": "Orange",
+                    "barrettes": "0",
+                    "barrettesColor": "NONE"
+                },
+                {
+                    "name": "11ème Kup",
+                    "color": "Orange",
+                    "barrettes": "1",
+                    "barrettesColor": "Verte"
+                },
+                {
+                    "name": "10ème Kup",
+                    "color": "Verte",
+                    "barrettes": "0",
+                    "barrettesColor": "NONE"
+                },
+                {
+                    "name": "9ème Kup",
+                    "color": "Verte",
+                    "barrettes": "1",
+                    "barrettesColor": "Violette"
+                },
+                {
+                    "name": "8ème Kup",
+                    "color": "Violette",
+                    "barrettes": "0",
+                    "barrettesColor": "NONE"
+                },
+                {
+                    "name": "7ème Kup",
+                    "color": "Violette",
+                    "barrettes": "1",
+                    "barrettesColor": "Bleue"
+                },
+                {
+                    "name": "6ème Kup",
+                    "color": "Bleue",
+                    "barrettes": "0",
+                    "barrettesColor": "NONE"
+                },
+                {
+                    "name": "5ème Kup",
+                    "color": "Bleue",
+                    "barrettes": "1",
+                    "barrettesColor": "Rouge"
+                },
+                {
+                    "name": "4ème Kup",
+                    "color": "Bleue",
+                    "barrettes": "2",
+                    "barrettesColor": "Rouge"
+                },
+                {
+                    "name": "3ème Kup",
+                    "color": "Rouge",
+                    "barrettes": "0",
+                    "barrettesColor": "NONE"
+                },
+                {
+                    "name": "2ème Kup",
+                    "color": "Rouge",
+                    "barrettes": "1",
+                    "barrettesColor": "Noire"
+                },
+                {
+                    "name": "1er Kup",
+                    "color": "Rouge",
+                    "barrettes": "2",
+                    "barrettesColor": "Noire"
+                },
+                {
+                    "name": "Il Poum",
+                    "color": "Rouge & Noire",
+                    "barrettes": "0",
+                    "barrettesColor": "NONE"
+                },
+                {
+                    "name": "1er Dan",
+                    "color": "Noire",
+                    "barrettes": "0",
+                    "barrettesColor": "NONE"
+                }
+            ]
         },
         {
-            "name": "14ème Kup",
-            "color": "Jaune",
-            "barrettes": "0",
-            "barrettesColor": "NONE"
+            "gradesAdultes": [
+                {
+                    "name": "10ème Kup",
+                    "color": "Blanc",
+                    "barrettes": "0",
+                    "barrettesColor": "NONE"
+                },
+                {
+                    "name": "9ème Kup",
+                    "color": "Jaune",
+                    "barrettes": "0",
+                    "barrettesColor": "NONE"
+                },
+                {
+                    "name": "8ème Kup",
+                    "color": "Jaune",
+                    "barrettes": "1",
+                    "barrettesColor": "Bleue"
+                },
+                {
+                    "name": "7ème Kup",
+                    "color": "Jaune",
+                    "barrettes": "2",
+                    "barrettesColor": "Bleue"
+                },
+                {
+                    "name": "6ème Kup",
+                    "color": "Bleue",
+                    "barrettes": "0",
+                    "barrettesColor": "NONE"
+                },
+                {
+                    "name": "5ème Kup",
+                    "color": "Bleue",
+                    "barrettes": "1",
+                    "barrettesColor": "Rouge"
+                },
+                {
+                    "name": "4ème Kup",
+                    "color": "Bleue",
+                    "barrettes": "2",
+                    "barrettesColor": "Rouge"
+                },
+                {
+                    "name": "3ème Kup",
+                    "color": "Rouge",
+                    "barrettes": "0",
+                    "barrettesColor": "NONE"
+                },
+                {
+                    "name": "2ème Kup",
+                    "color": "Rouge",
+                    "barrettes": "1",
+                    "barrettesColor": "Noire"
+                },
+                {
+                    "name": "1er Kup",
+                    "color": "Rouge",
+                    "barrettes": "2",
+                    "barrettesColor": "Noire"
+                },
+                {
+                    "name": "1er Dan",
+                    "color": "Noire",
+                    "barrettes": "0",
+                    "barrettesColor": "NONE"
+                }
+            ]
         },
         {
-            "name": "13ème Kup",
-            "color": "Jaune",
-            "barrettes": "1",
-            "barrettesColor": "Orange"
-        },
-        {
-            "name": "12ème Kup",
-            "color": "Orange",
-            "barrettes": "0",
-            "barrettesColor": "NONE"
-        },
-        {
-            "name": "11ème Kup",
-            "color": "Orange",
-            "barrettes": "1",
-            "barrettesColor": "Verte"
-        },
-        {
-            "name": "10ème Kup",
-            "color": "Verte",
-            "barrettes": "0",
-            "barrettesColor": "NONE"
-        },
-        {
-            "name": "9ème Kup",
-            "color": "Verte",
-            "barrettes": "1",
-            "barrettesColor": "Violette"
-        },
-        {
-            "name": "8ème Kup",
-            "color": "Violette",
-            "barrettes": "0",
-            "barrettesColor": "NONE"
-        },
-        {
-            "name": "7ème Kup",
-            "color": "Violette",
-            "barrettes": "1",
-            "barrettesColor": "Bleue"
-        },
-        {
-            "name": "6ème Kup",
-            "color": "Bleue",
-            "barrettes": "0",
-            "barrettesColor": "NONE"
-        },
-        {
-            "name": "5ème Kup",
-            "color": "Bleue",
-            "barrettes": "1",
-            "barrettesColor": "Rouge"
-        },
-        {
-            "name": "4ème Kup",
-            "color": "Bleue",
-            "barrettes": "2",
-            "barrettesColor": "Rouge"
-        },
-        {
-            "name": "3ème Kup",
-            "color": "Rouge",
-            "barrettes": "0",
-            "barrettesColor": "NONE"
-        },
-        {
-            "name": "2ème Kup",
-            "color": "Rouge",
-            "barrettes": "1",
-            "barrettesColor": "Noire"
-        },
-        {
-            "name": "1er Kup",
-            "color": "Rouge",
-            "barrettes": "2",
-            "barrettesColor": "Noire"
-        },
-        {
-            "name": "Il Poum",
-            "color": "Rouge & Noire",
-            "barrettes": "0",
-            "barrettesColor": "NONE"
-        },
-        {
-            "name": "1er Dan",
-            "color": "Noire",
-            "barrettes": "0",
-            "barrettesColor": "NONE"
-        }
-    ],
-    "gradesAdultes": [
-        {
-            "name": "10ème Kup",
-            "color": "Blanc",
-            "barrettes": "0",
-            "barrettesColor": "NONE"
-        },
-        {
-            "name": "9ème Kup",
-            "color": "Jaune",
-            "barrettes": "0",
-            "barrettesColor": "NONE"
-        },
-        {
-            "name": "8ème Kup",
-            "color": "Jaune",
-            "barrettes": "1",
-            "barrettesColor": "Bleue"
-        },
-        {
-            "name": "7ème Kup",
-            "color": "Jaune",
-            "barrettes": "2",
-            "barrettesColor": "Bleue"
-        },
-        {
-            "name": "6ème Kup",
-            "color": "Bleue",
-            "barrettes": "0",
-            "barrettesColor": "NONE"
-        },
-        {
-            "name": "5ème Kup",
-            "color": "Bleue",
-            "barrettes": "1",
-            "barrettesColor": "Rouge"
-        },
-        {
-            "name": "4ème Kup",
-            "color": "Bleue",
-            "barrettes": "2",
-            "barrettesColor": "Rouge"
-        },
-        {
-            "name": "3ème Kup",
-            "color": "Rouge",
-            "barrettes": "0",
-            "barrettesColor": "NONE"
-        },
-        {
-            "name": "2ème Kup",
-            "color": "Rouge",
-            "barrettes": "1",
-            "barrettesColor": "Noire"
-        },
-        {
-            "name": "1er Kup",
-            "color": "Rouge",
-            "barrettes": "2",
-            "barrettesColor": "Noire"
-        },
-        {
-            "name": "1er Dan",
-            "color": "Noire",
-            "barrettes": "0",
-            "barrettesColor": "NONE"
-        }
-    ],
-    "gradesDans": [
-        {
-            "dan": "1er Dan"
-        },
-        {
-            "dan": "2ème Dan"
-        },
-        {
-            "dan": "3ème Dan"
-        },
-        {
-            "dan": "4ème Dan"
-        },
-        {
-            "dan": "5ème Dan"
-        },
-        {
-            "dan": "6ème Dan"
-        },
-        {
-            "dan": "7ème Dan"
-        },
-        {
-            "dan": "8ème Dan"
-        },
-        {
-            "dan": "9ème Dan"
+            "gradesDans": [
+                {
+                    "dan": "1er Dan"
+                },
+                {
+                    "dan": "2ème Dan"
+                },
+                {
+                    "dan": "3ème Dan"
+                },
+                {
+                    "dan": "4ème Dan"
+                },
+                {
+                    "dan": "5ème Dan"
+                },
+                {
+                    "dan": "6ème Dan"
+                },
+                {
+                    "dan": "7ème Dan"
+                },
+                {
+                    "dan": "8ème Dan"
+                },
+                {
+                    "dan": "9ème Dan"
+                }
+            ]
         }
     ],
     "positions": [
@@ -252,6 +260,277 @@
         {
             "name": "Ap Koa Seugui",
             "description": "Jambes croisées avec le pied avant sur le bol du pied"
+        }
+    ],
+    "techniques": [
+        {
+            "name": "Mains fermées",
+            "techniques": [
+                {
+                    "name": "Ale Maki",
+                    "description": "Blocage niveau bas"
+                },
+                {
+                    "name": "Ale Hetcheu Maki",
+                    "description": "Blocage niveau bas avec les deux bras"
+                },
+                {
+                    "name": "Montong Maki",
+                    "description": "Blocage niveau moyen avec la main avant vers l'intérieur"
+                },
+                {
+                    "name": "Montong An Maki",
+                    "description": "Blocage niveau moyen avec la main arrière vers l'intérieur"
+                },
+                {
+                    "name": "Eulgoul Maki",
+                    "description": "Blocage niveau haut"
+                },
+                {
+                    "name": "Montong Bakkat Maki",
+                    "description": "Blocage niveau moyen vers l'extérieur (paume vers l'autre)"
+                },
+                {
+                    "name": "Eulgoul Bakkat Maki",
+                    "description": "Blocage niveau haut vers l'extérieur (paume vers l'autre)"
+                },
+                {
+                    "name": "Kawi Maki",
+                    "description": "Double blocage comprenant un Ale Maki et un Montong Maki"
+                },
+                {
+                    "name": "Eutkeuleu Ale Maki",
+                    "description": "Blocage Ale Maki renforcé avec un poing"
+                },
+                {
+                    "name": "Santeul Maki",
+                    "description": "Double blocage comprenant un Ale Maki et un Eulgoul Maki"
+                }
+            ]
+        },
+        {
+            "name": "Mains ouvertes",
+            "techniques": [
+                {
+                    "name": "Han Sonnal Montong Maki",
+                    "description": "Blocage avant avec la main ouverte, main arrière fermée, niveau plexus"
+                },
+                {
+                    "name": "Han Sonnal Ale Maki",
+                    "description": "Blocage avant avec la main ouverte, main arrière fermée, niveau bas"
+                },
+                {
+                    "name": "Han Sonnal Ale Yop Maki",
+                    "description": "Blocage Han Sonnal Ale Maki de côté"
+                },
+                {
+                    "name": "Sonnal Montong Maki",
+                    "description": "Blocage avant avec les deux mains ouvertes au niveau plexus"
+                },
+                {
+                    "name": "Sonnal Ale Maki",
+                    "description": "Blocage avant avec les deux mains ouvertes au niveau bas"
+                },
+                {
+                    "name": "Sonnal Ale Hetcheu Maki",
+                    "description": "Double Sonnal Ale Maki"
+                },
+                {
+                    "name": "Batangson Montong Maki",
+                    "description": "Blocage horizontal niveau plexus vers l'intérieur avec la main avant"
+                },
+                {
+                    "name": "Bantangson Nelyo Maki",
+                    "description": "Blocage descendant avec la paume de la main"
+                },
+                {
+                    "name": "Batangson Montong Ann Maki",
+                    "description": "Blocage horizontal niveau plexus vers l'intérieur avec la main arrière"
+                },
+                {
+                    "name": "Kodeuro Montong Ann Maki",
+                    "description": "Blocage Batangson Montong Maki avec la main arrière renforcée avec la main avant sous le coude"
+                },
+                {
+                    "name": "Han SOnnal Eulgoul Biteulo Maki",
+                    "description": "Blocage avec la main arrière ouverte en forme de vrille jusqu'à la tête"
+                },
+                {
+                    "name": "Keumgang Montong Maki",
+                    "description": "Eulgoul Maki avec An Palmok Montong Yop Maki"
+                }
+            ]
+        },
+        {
+            "name": "Poings",
+            "techniques": [
+                {
+                    "name": "Montong Bande Jileugui",
+                    "description": "Coup de poing avant niveau plexus"
+                },
+                {
+                    "name": "Montong Baro Jileugui",
+                    "description": "Coup de poing arrière niveau plexus"
+                },
+                {
+                    "name": "Montong Dou Bon Jileugui",
+                    "description": "Double coup de poing niveau plexus"
+                },
+                {
+                    "name": "Montong Yop Jileugui",
+                    "description": "Coup de poing de côté"
+                },
+                {
+                    "name": "Eulgoul Bande Jileugui",
+                    "description": "Coup de poing avant niveau nez"
+                },
+                {
+                    "name": "Bande Jetcho Jileugui",
+                    "description": "Uppercut avant"
+                },
+                {
+                    "name": "Baro Jetcho Jileugui",
+                    "description": "Uppercut arrière"
+                },
+                {
+                    "name": "Deung Jumok Jetcho Jileugui",
+                    "description": "Double uppercut"
+                },
+                {
+                    "name": "Dang Kyeu Teuk Jileugui",
+                    "description": "Coup de poing remontant avec la main arrière et la main avant revient à l'épaule arrière"
+                }
+            ]
+        },
+        {
+            "name": "Autres techniques",
+            "techniques": [
+                {
+                    "name": "Han Sonnal Jebipoum Mok Tchigui",
+                    "description": "COup tranchant vers le coup avec la main arrière (paume vers le haut)"
+                },
+                {
+                    "name": "Jebipoum Sonnal Mok Tchigui",
+                    "description": "Eulgoul Sonnal Maki avec Han Sonnal Jebipoum Mok Tchigui"
+                },
+                {
+                    "name": "Deung Jumok Ap Tchigui",
+                    "description": "Coup de poing en revers de face"
+                },
+                {
+                    "name": "Deung Jumok Bakkat Tchigui",
+                    "description": "Coup de poing en revers vers l'extérieur"
+                },
+                {
+                    "name": "Me Jumok Nelyo Tchigui",
+                    "description": "Coup de poing marteau descendant"
+                },
+                {
+                    "name": "Palkoup Dolyo Tchigui",
+                    "description": "Coup de coude circulaire"
+                },
+                {
+                    "name": "Palkoup Pyo Jeuk Tchigui",
+                    "description": "Coup de coude frappé dans la main (cible)"
+                },
+                {
+                    "name": "Palkoup Yop Tchigui",
+                    "description": "Coup de coude de côté"
+                },
+                {
+                    "name": "Batangson Teuk Tchigui",
+                    "description": "Attaque avec la paume vers l'avant"
+                },
+                {
+                    "name": "Han Sonnal Mok Tchigui",
+                    "description": "Coup tranchant vers le cou avec la main avant (paume vers le bas)"
+                },
+                {
+                    "name": "Ja Keun Dol Tchigui",
+                    "description": "Deux coup de poings ramenés à la hanche comme armement"
+                },
+                {
+                    "name": "Pyon Son Keut Séo Tchileugui",
+                    "description": "Pique avec les doigts au niveau du plexus"
+                },
+                {
+                    "name": "Pyon Son Keut Ale Jetcho Tchileugui",
+                    "description": "Pique avec les doigts vers le bas avec la paume vers le ciel"
+                },
+                {
+                    "name": "Bo Jumok",
+                    "description": "Main gauche couvre le poing droit et remonte de la ceinture jusqu'au menton"
+                }
+            ]
+        },
+        {
+            "name": "Jambes",
+            "techniques": [
+                {
+                    "name": "Ap Tchagui",
+                    "description": "Coup de pied de face"
+                },
+                {
+                    "name": "Bandal Tchagui",
+                    "description": "Coup de pied circulaire"
+                },
+                {
+                    "name": "Dolyo Tchagui",
+                    "description": "Coup de pied circulaire"
+                },
+                {
+                    "name": "Yop Tchagui",
+                    "description": "Coup de pide de côté (poussé)"
+                },
+                {
+                    "name": "Miro Tchagui",
+                    "description": "Coup de pied de face en traversant"
+                },
+                {
+                    "name": "An Tchagui",
+                    "description": "Coup de pied en forme de lune vers l'intérieur"
+                },
+                {
+                    "name": "Bakkat Tchagui",
+                    "description": "Coup de pied en forme de lune vers l'extérieur"
+                },
+                {
+                    "name": "Nelyo Tchagui",
+                    "description": "Coup de pied descendant avec le talon"
+                },
+                {
+                    "name": "Duit Tchagui",
+                    "description": "Coup de pied arrière (coup de pied cheval)"
+                },
+                {
+                    "name": "Pyojeuk Tchagui",
+                    "description": "Coup de pied dans la main (cible)"
+                },
+                {
+                    "name": "Mondolyo Tchagui",
+                    "description": "Coup de pied circulaire retourné"
+                },
+                {
+                    "name": "Biteulo Tchagui",
+                    "description": "Coup de pied vrillé"
+                },
+                {
+                    "name": "Foulyo Tchagui",
+                    "description": "Coup de pied de profil fouetté avec le talon"
+                },
+                {
+                    "name": "Dou Bal Dang Sang Ap Tchagui",
+                    "description": "Double coup de pied de face"
+                },
+                {
+                    "name": "Dwiro Dora Yop Tchagui",
+                    "description": "Coup de pied de côté retourné"
+                },
+                {
+                    "name": "Mouroup Tchagui",
+                    "description": "Coup de genou"
+                }
+            ]
         }
     ],
     "poomsae": [

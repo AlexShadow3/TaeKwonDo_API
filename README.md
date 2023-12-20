@@ -41,11 +41,12 @@ Liste des fonctionnalités disponibles (ou à venir) :
   - [x] Grades adulte
   - [x] Grades master (à partir de la ceinture noire)
 - [x] Les positions
-- [ ] Les techniques de bras
-  - [ ] Les techniques de blocage à mains ouvertes
-  - [ ] Les techniques de blocage à mains fermées
-  - [ ] Autres techniques de blocage à la main
-- [ ] Les techniques de coup de pied
+- [x] Les techniques
+  - [x] Les techniques de blocage à mains ouvertes
+  - [x] Les techniques de blocage à mains fermées
+  - [x] Les techniques de coup de poing
+  - [x] Autres techniques de blocage à la main
+  - [x] Les techniques de coup de pied
 - [x] Les poomsae
   - [x] 1er poomsae
   - [x] 2ème poomsae
@@ -55,6 +56,7 @@ Liste des fonctionnalités disponibles (ou à venir) :
   - [x] 6ème poomsae
   - [x] 7ème poomsae
   - [x] 8ème poomsae
+- [ ] Les mots à connaître et leur traduction
 
 ## Contribuer
 
