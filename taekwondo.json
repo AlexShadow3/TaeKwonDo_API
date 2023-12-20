@@ -1112,7 +1112,7 @@
                     "id": "25",
                     "technique": "Ale Maki",
                     "position": "Ap Koubi Seugui",
-                    "description": "1/2 tour sur place (dans le dos), en décalant la jambe gauche sur la gauche, armement pendant le demi-tour et blocage simultané bras gauche"
+                    "description": "1/2 tour sur place (dans le dos) en décalant la jambe gauche sur la gauche, armement pendant le demi-tour et blocage simultané bras gauche"
                 },
                 {
                     "id": "26",
@@ -1399,7 +1399,238 @@
             "description": "Représente la terre, symbolise l'enracinement, mais aussi le début et la fin.",
             "mouvements": [
                 {
-                    
+                    "id": "1",
+                    "technique": "Tchaliot Seugui, Kyong Né (saluez)",
+                    "position": "Moa Seugui",
+                    "description": "Sur place"
+                },
+                {
+                    "id": "2",
+                    "technique": "Joumbi Seugui",
+                    "position": "Naranhi Seugui",
+                    "description": "Sur place (décaller la jambe gauche d'un pied)"
+                },
+                {
+                    "id": "3",
+                    "technique": "Keudeuro Montong Maki",
+                    "position": "Dwitt Koubi Seugui",
+                    "description": "Avancer la jambe gauche devant, blocage simultané des 2 bras"
+                },
+                {
+                    "id": "4",
+                    "technique": "Montong Balo Jileugui",
+                    "position": "Ap Koubi Seugui",
+                    "description": "Glisser le pied gauche devant pour prolonger la position, coup de poing simultané"
+                },
+                {
+                    "id": "5",
+                    "technique": "Dou Bal Dang Sang Ap Tchagui",
+                    "position": "Pas de position",
+                    "description": "Frappe jambe droite puis gauche successivement (sans poser entre les deux) + KIAP (reposer la jambe gauche devant en Ap Koubi Seugui)"
+                },
+                {
+                    "id": "6",
+                    "technique": "Montong Maki",
+                    "position": "Ap Koubi Seugui",
+                    "description": "Dans la continuité de la technique précédente, blocage bras gauche"
+                },
+                {
+                    "id": "7",
+                    "technique": "Montong Dou Bon Jileugui",
+                    "position": "Ap Koubi Seugui",
+                    "description": "Dans la continuité de la technique précédenten frappes simultanées poing droit, poing gauche, sans changement de position"
+                },
+                {
+                    "id": "8",
+                    "technique": "Montong Bandé Jileugui",
+                    "position": "Ap Koubi Seugui",
+                    "description": "Avancer la jambe droite, coup de poing droit simultané"
+                },
+                {
+                    "id": "9",
+                    "technique": "Owen Owé Santeul Maki",
+                    "position": "Ap Koubi Seugui",
+                    "description": " 3/4 tour pivot sur la jambe droite en déplaçant la jambe gauche sur la gauche (dans le dos), armement pendant le pivot et blocage simultané vers l'éxterieur, bras droit (niveau visage), bras gauche (niveau ceinture)"
+                },
+                {
+                    "id": "10",
+                    "technique": "Dang Kieu Teuk Jileugui",
+                    "position": "Ap Koubi Seugui",
+                    "description": "Coup de poing droit remontant niveau visage (upercut), poing gauche vers l'épaule droite (après avoir mimé un mouvement de saisie)"
+                },
+                {
+                    "id": "11",
+                    "technique": "Pas de technique",
+                    "position": "Ap Koa Seugui",
+                    "description": "Déplacement latéral croisé (dans le dos, la jambe gauche devant la jambe droite), armement pendant le blocage, bras croisé"
+                },
+                {
+                    "id": "12",
+                    "technique": "Orun Owé Santeul Maki",
+                    "position": "Ap Koubi Seugui",
+                    "description": "Dans la continuité de la technique précédente, blocage simultané vers l'éxterieur, bras gauche (niveau visage), bras droit (niveau ceinture)"
+                },
+                {
+                    "id": "13",
+                    "technique": "Dang Kieu Teuk Jileugui",
+                    "position": "Ap Koubi Seugui",
+                    "description": "Coup de poing gauche remontant niveau visage (upercut), poing droit vers l'épaule gauche (après avoir mimé un mouvement de saisie)"
+                },
+                {
+                    "id": "14",
+                    "technique": "Sonnal Montong Maki",
+                    "position": "Dwitt Koubi Seugui",
+                    "description": "1/4 tour pivot sur la jambe gauche, en reculant la jambe droite (face au ventre). Blocage bras gauche devant mains ouvertes, jambe droite derrière"
+                },
+                {
+                    "id": "15",
+                    "technique": "Montong Balo Jileugui",
+                    "position": "Ap Koubi Seugui",
+                    "description": "Avancer la jambe droite, coup de poing gauche simultané"
+                },
+                {
+                    "id": "16",
+                    "technique": "Ap Tchagui",
+                    "position": "Pas de position",
+                    "description": "Coup de pied de face jambe droite, ramener la jambe droite en arrière (position précédente) puis déplacer la jambe gauche (un grand pas) pour terminer en position Beum Seugui (jambe droite devant)"
+                },
+                {
+                    "id": "17",
+                    "technique": "Batangson Montong Maki",
+                    "position": "Beum Seugui",
+                    "description": "Dans la continuité de la technique précédente, blocage bras droit simultané sans changement de position"
+                },
+                {
+                    "id": "18",
+                    "technique": "Sonnal Montong Maki",
+                    "position": "Beum Seugui",
+                    "description": "1/4 tour pivot sur la jambe droite en déplaçant la jambe gauche sur la gauche, armement pendant le pivot et blocage simultané bras gauche devant, mains ouvertes, jambe droite derrière"
+                },
+                {
+                    "id": "19",
+                    "technique": "Ap Bal Ap Tchagui",
+                    "position": "Pas de position",
+                    "description": "Coup de pied jambe gauche, sans bouger la jambe arrière (droite), poser la jambe gauche devant après la frappe en position Ap Koubi Seugui"
+                },
+                {
+                    "id": "20",
+                    "technique": "Montong Balo Jileugui",
+                    "position": "Ap Koubi Seugui",
+                    "description": "Frappe simultanée poing droit sans changement de position"
+                },
+                {
+                    "id": "21",
+                    "technique": "Batangson Montong Maki",
+                    "position": "Beum Seugui",
+                    "description": "Ramener la jambe gauche en position Beum Seugui (la jambe droite ne bouge pas) (RETOUR POSITION N°18), blocage simultané main gauche"
+                },
+                {
+                    "id": "22",
+                    "technique": "Sonnal Montong Maki",
+                    "position": "Beum Seugui",
+                    "description": "1/2 tour pivot sur la jambe gauche en déplaçant la jambe droite sur la droite (dans le dos), armement pendant le pivot et blocage simultané bras droit devant, mains ouvertes, jambe gauche derrière"
+                },
+                {
+                    "id": "23",
+                    "technique": "Ap Bal Ap Tchagui",
+                    "position": "Pas de position",
+                    "description": "Coup de pied jambe droite, sans bouger la jambe arrière (gauche), poser la jambe droite devant après la frappe en position Ap Koubi Seugui"
+                },
+                {
+                    "id": "24",
+                    "technique": "Montong Balo Jileugui",
+                    "position": "Ap Koubi Seugui",
+                    "description": "Frappe simultanée poing gauche sans changement de position"
+                },
+                {
+                    "id": "25",
+                    "technique": "Batangson Montong Maki",
+                    "position": "Beum Seugui",
+                    "description": "Ramener la jambe droite en position Beum Seugui (la jambe gauche ne bouge pas) (RETOUR POSITION N°22), blocage simultané main droite"
+                },
+                {
+                    "id": "26",
+                    "technique": "Keudeuro Ale Maki",
+                    "position": "Dwitt Koubi Seugui",
+                    "description": "1/4 tour pivot sur la jambe gauche en déplaçant la jambe droite sur la droite, armement pendant le pivot et blocage simultané des 2 bras"
+                },
+                {
+                    "id": "27",
+                    "technique": "Ap Tchagui & Tuyeu Ap Tchagui",
+                    "position": "Pas de position",
+                    "description": "Coup de pied de face jambe gauche et frappe simultanée jambe droite (sans poser la jambe gauche) + KIAP et reposer en position Ap Koubi Seugui (jambe droite devant)"
+                },
+                {
+                    "id": "28",
+                    "technique": "Montong Maki",
+                    "position": "Ap Koubi Seugui",
+                    "description": "Blocage bras droit simultané sans changement de position"
+                },
+                {
+                    "id": "29",
+                    "technique": "Montong Dou Bon Jileugui",
+                    "position": "Ap Koubi Seugui",
+                    "description": "Frappe poing gauche, poing droit dans la continuité de la technique précédente sans changement de position"
+                },
+                {
+                    "id": "30",
+                    "technique": "Han Sonnal Montong Bakkat Maki",
+                    "position": "Ap Koubi Seugui",
+                    "description": "3/4 tour pivot sur la jambe droite en déplaçant la jambe gauche sur la gauche (dans le dos), armement pendant le pivot et blocage simultané vers l'extérieur, bras gauche main ouverte (l'autre bras est plié au niveau de la ceinture)"
+                },
+                {
+                    "id": "31",
+                    "technique": "Palkoup Eulgoul Dolyeu Tchigui",
+                    "position": "Ap Koubi Seugui",
+                    "description": "Frappe coup de coude droit niveau visage (l'autre bras est plié au niveau de la ceinture)"
+                },
+                {
+                    "id": "32",
+                    "technique": "Deung Jumok Eulgoul Ap Tchigui",
+                    "position": "Ap Koubi Seugui",
+                    "description": "Frappe simultanée avec le revers du poing droitr niveau visage, sans changement de position"
+                },
+                {
+                    "id": "33",
+                    "technique": "Montong Bandé Jileugui",
+                    "position": "Ap Koubi Seugui",
+                    "description": "Frappe poing gauche dans la continuité de la technique précédente, sans changement de position"
+                },
+                {
+                    "id": "34",
+                    "technique": "Han Sonnal Montong Bakkat Maki",
+                    "position": "Dwitt Koubi Seugui",
+                    "description": "1/2 our pivot sur la jambe gauche en déplaçant la jambe droite sur la droite (dans le dos), armement pendant le pivot et blocage simultané vers l'extérieur, bras gauche main ouverte (l'autre bras est plié au niveau de la ceinture)"
+                },
+                {
+                    "id": "35",
+                    "technique": "Palkoup Eulgoul Dolyeu Tchigui",
+                    "position": "Ap Koubi Seugui",
+                    "description": "Frappe coup de coude gauche niveau visage (l'autre bras est plié au niveau de la ceinture)"
+                },
+                {
+                    "id": "36",
+                    "technique": "Deung Jumok Eulgoul Ap Tchigui",
+                    "position": "Ap Koubi Seugui",
+                    "description": "Frappe simultanée avec le revers du poing gauche niveau visage, sans changement de position"
+                },
+                {
+                    "id": "37",
+                    "technique": "Montong Bandé Jileugui",
+                    "position": "Ap Koubi Seugui",
+                    "description": "Frappe poing droit dans la continuité de la technique précédente, sans changement de position"
+                },
+                {
+                    "id": "38",
+                    "technique": "Joumbi Seugui",
+                    "position": "Naranhi Seugui",
+                    "description": "Ramener la jambe gauche en position Naranhi Seugui (la jambe droite ne bouge pas) (retour position de départ)"
+                },
+                {
+                    "id": "39",
+                    "technique": "Tchaliot Seugui, Kyong Né (saluez)",
+                    "position": "Moa Seugui",
+                    "description": "Sur place"
                 }
             ]
         }
