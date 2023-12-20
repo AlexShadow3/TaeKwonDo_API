@@ -1,4 +1,205 @@
 {
+    "gradesEnfants" : [
+        {
+            "name": "15ème Kup",
+            "color": "Blanc",
+            "barrettes": "0",
+            "barrettesColor": "NONE"
+        },
+        {
+            "name": "14ème Kup",
+            "color": "Jaune",
+            "barrettes": "0",
+            "barrettesColor": "NONE"
+        },
+        {
+            "name": "13ème Kup",
+            "color": "Jaune",
+            "barrettes": "1",
+            "barrettesColor": "Orange"
+        },
+        {
+            "name": "12ème Kup",
+            "color": "Orange",
+            "barrettes": "0",
+            "barrettesColor": "NONE"
+        },
+        {
+            "name": "11ème Kup",
+            "color": "Orange",
+            "barrettes": "1",
+            "barrettesColor": "Verte"
+        },
+        {
+            "name": "10ème Kup",
+            "color": "Verte",
+            "barrettes": "0",
+            "barrettesColor": "NONE"
+        },
+        {
+            "name": "9ème Kup",
+            "color": "Verte",
+            "barrettes": "1",
+            "barrettesColor": "Violette"
+        },
+        {
+            "name": "8ème Kup",
+            "color": "Violette",
+            "barrettes": "0",
+            "barrettesColor": "NONE"
+        },
+        {
+            "name": "7ème Kup",
+            "color": "Violette",
+            "barrettes": "1",
+            "barrettesColor": "Bleue"
+        },
+        {
+            "name": "6ème Kup",
+            "color": "Bleue",
+            "barrettes": "0",
+            "barrettesColor": "NONE"
+        },
+        {
+            "name": "5ème Kup",
+            "color": "Bleue",
+            "barrettes": "1",
+            "barrettesColor": "Rouge"
+        },
+        {
+            "name": "4ème Kup",
+            "color": "Bleue",
+            "barrettes": "2",
+            "barrettesColor": "Rouge"
+        },
+        {
+            "name": "3ème Kup",
+            "color": "Rouge",
+            "barrettes": "0",
+            "barrettesColor": "NONE"
+        },
+        {
+            "name": "2ème Kup",
+            "color": "Rouge",
+            "barrettes": "1",
+            "barrettesColor": "Noire"
+        },
+        {
+            "name": "1er Kup",
+            "color": "Rouge",
+            "barrettes": "2",
+            "barrettesColor": "Noire"
+        },
+        {
+            "name": "Il Poum",
+            "color": "Rouge & Noire",
+            "barrettes": "0",
+            "barrettesColor": "NONE"
+        },
+        {
+            "name": "1er Dan",
+            "color": "Noire",
+            "barrettes": "0",
+            "barrettesColor": "NONE"
+        }
+    ],
+    "gradesAdultes": [
+        {
+            "name": "10ème Kup",
+            "color": "Blanc",
+            "barrettes": "0",
+            "barrettesColor": "NONE"
+        },
+        {
+            "name": "9ème Kup",
+            "color": "Jaune",
+            "barrettes": "0",
+            "barrettesColor": "NONE"
+        },
+        {
+            "name": "8ème Kup",
+            "color": "Jaune",
+            "barrettes": "1",
+            "barrettesColor": "Bleue"
+        },
+        {
+            "name": "7ème Kup",
+            "color": "Jaune",
+            "barrettes": "2",
+            "barrettesColor": "Bleue"
+        },
+        {
+            "name": "6ème Kup",
+            "color": "Bleue",
+            "barrettes": "0",
+            "barrettesColor": "NONE"
+        },
+        {
+            "name": "5ème Kup",
+            "color": "Bleue",
+            "barrettes": "1",
+            "barrettesColor": "Rouge"
+        },
+        {
+            "name": "4ème Kup",
+            "color": "Bleue",
+            "barrettes": "2",
+            "barrettesColor": "Rouge"
+        },
+        {
+            "name": "3ème Kup",
+            "color": "Rouge",
+            "barrettes": "0",
+            "barrettesColor": "NONE"
+        },
+        {
+            "name": "2ème Kup",
+            "color": "Rouge",
+            "barrettes": "1",
+            "barrettesColor": "Noire"
+        },
+        {
+            "name": "1er Kup",
+            "color": "Rouge",
+            "barrettes": "2",
+            "barrettesColor": "Noire"
+        },
+        {
+            "name": "1er Dan",
+            "color": "Noire",
+            "barrettes": "0",
+            "barrettesColor": "NONE"
+        }
+    ],
+    "gradesDans": [
+        {
+            "dan": "1er Dan"
+        },
+        {
+            "dan": "2ème Dan"
+        },
+        {
+            "dan": "3ème Dan"
+        },
+        {
+            "dan": "4ème Dan"
+        },
+        {
+            "dan": "5ème Dan"
+        },
+        {
+            "dan": "6ème Dan"
+        },
+        {
+            "dan": "7ème Dan"
+        },
+        {
+            "dan": "8ème Dan"
+        },
+        {
+            "dan": "9ème Dan"
+        }
+    ],
     "poomsae": [
         {
             "name": "Taegeuk Il-Jang",
