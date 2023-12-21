@@ -56,7 +56,9 @@ Liste des fonctionnalités disponibles (ou à venir) :
   - [x] 6ème poomsae
   - [x] 7ème poomsae
   - [x] 8ème poomsae
-- [ ] Les mots à connaître et leur traduction
+- [x] Les mots à connaître et leur traduction
+
+**Il existe tellement de mots qu'il m'est impossible de compléter entièrement la dernière partie !!**
 
 ## Contribuer
 

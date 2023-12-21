@@ -407,7 +407,7 @@
             "techniques": [
                 {
                     "name": "Han Sonnal Jebipoum Mok Tchigui",
-                    "description": "COup tranchant vers le coup avec la main arrière (paume vers le haut)"
+                    "description": "Coup tranchant vers le coup avec la main arrière (paume vers le haut)"
                 },
                 {
                     "name": "Jebipoum Sonnal Mok Tchigui",
@@ -2167,6 +2167,200 @@
                     "description": "Sur place"
                 }
             ]
+        }
+    ],
+    "translations": [
+        {
+            "korean": "Tae Kwon Do",
+            "french": "La voie des pieds et des poings"
+        },
+        {
+            "korean": "Hana",
+            "french": "Un"
+        },
+        {
+            "korean": "Dul",
+            "french": "Deux"
+        },
+        {
+            "korean": "Set",
+            "french": "Trois"
+        },
+        {
+            "korean": "Net",
+            "french": "Quatre"
+        },
+        {
+            "korean": "Dasot",
+            "french": "Cinq"
+        },
+        {
+            "korean": "Yosot",
+            "french": "Six"
+        },
+        {
+            "korean": "Ilgop",
+            "french": "Sept"
+        },
+        {
+            "korean": "Yodol",
+            "french": "Huit"
+        },
+        {
+            "korean": "Ahop",
+            "french": "Neuf"
+        },
+        {
+            "korean": "Yol",
+            "french": "Dix"
+        },
+        {
+            "korean": "Ale",
+            "french": "Vers le bas"
+        },
+        {
+            "korean": "Montong",
+            "french": "Vers le milieu"
+        },
+        {
+            "korean": "Eulgoul",
+            "french": "Vers le haut"
+        },
+        {
+            "korean": "Maki",
+            "french": "Blocage"
+        },
+        {
+            "korean": "Tchagui",
+            "french": "Coup de pied"
+        },
+        {
+            "korean": "Jileugui",
+            "french": "Coup de poing"
+        },
+        {
+            "korean": "Tchigui",
+            "french": "Coup de poing"
+        },
+        {
+            "korean": "Tchaliot",
+            "french": "Début"
+        },
+        {
+            "korean": "Tchoumbi",
+            "french": "Fin"
+        },
+        {
+            "korean": "Seugui",
+            "french": "Position"
+        },
+        {
+            "korean": "Tchileugui",
+            "french": "Pointe"
+        },
+        {
+            "korean": "Ap",
+            "french": "De face"
+        },
+        {
+            "korean": "Duit",
+            "french": "De dos"
+        },
+        {
+            "korean": "Bandal",
+            "french": "Semi-circulaire"
+        },
+        {
+            "korean": "Dolyo",
+            "french": "Circulaire"
+        },
+        {
+            "korean": "Yop",
+            "french": "Latéral"
+        },
+        {
+            "korean": "Nelyo",
+            "french": "Vers le bas"
+        },
+        {
+            "korean": "An",
+            "french": "Vers l'intérieur, opposé"
+        },
+        {
+            "korean": "Bakkat",
+            "french": "Vers l'extérieur"
+        },
+        {
+            "korean": "Mouroup",
+            "french": "Genou"
+        },
+        {
+            "korean": "Dwitt",
+            "french": "Dos"
+        },
+        {
+            "korean": "Dwiro Dora",
+            "french": "1/2 tour"
+        },
+        {
+            "korean": "Dang",
+            "french": "Direct"
+        },
+        {
+            "korean": "Jebipoum",
+            "french": ""
+        },
+        {
+            "korean": "Baro",
+            "french": "Bras inversé à la jambe avant"
+        },
+        {
+            "korean": "Bandé",
+            "french": "Bras du même côté que la jambe avant"
+        },
+        {
+            "korean": "Mok",
+            "french": "Cou"
+        },
+        {
+            "korean": "Son",
+            "french": "Main"
+        },
+        {
+            "korean": "Teok",
+            "french": "Machoire"
+        },
+        {
+            "korean": "Mori",
+            "french": "Tête"
+        },
+        {
+            "korean": "Sonnal",
+            "french": "Tranchant de la main"
+        },
+        {
+            "korean": "Pal",
+            "french": "Bras"
+        },
+        {
+            "korean": "Palkoup",
+            "french": "Coude"
+        },
+        {
+            "korean": "Bal",
+            "french": "Pied"
+        },
+        {
+            "korean": "Oreun",
+            "french": "Droite"
+        },
+        {
+            "korean": "Wen",
+            "french": "Gauche"
+        },
+        {
+            "korean": "Balbakosso",
+            "french": "Changer de garde"
         }
     ]
 }
