@@ -5,8 +5,10 @@ Simple d'utilisation et facile à intégrer dans vos projets, cette API vous ser
 
 ## Installation
 
-```bash
+Ouvrez un terminal et exécutez la commande suivante dans le dossier de votre projet :
 
+```bash
+git clone https://github.com/AlexShadow3/TaeKwonDo_API.git
 ```
 
 ## Usage
@@ -63,3 +65,5 @@ Liste des fonctionnalités disponibles (ou à venir) :
 ## Contribuer
 
 Envie de contribuer ? Hésite pas à faire un pull request !
+
+N'oubliez pas de laisser un ⭐ ça me ferait plaisir !
