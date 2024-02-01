@@ -22,7 +22,7 @@ async function fetchData() {
         }
 
         const taekwondo = await response.json();
-        // Use the 'taekwondo' object here
+        // Utilisez l'objet 'taekwondo' ici
         console.log(taekwondo); // { grades: [...], poomsae: [...] }
         console.log(taekwondo.grades); // [ { name: '10ème Kup', ... }, ... ]
     } catch (error) {
@@ -30,7 +30,7 @@ async function fetchData() {
     }
 }
 
-// Call the async function
+// Appelez la fonction asynchrone
 fetchData();
 ```
 
